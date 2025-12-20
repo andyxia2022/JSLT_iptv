@@ -5,3 +5,4 @@
 ## 下载链接
 * [txt格式](https://raw.githubusercontent.com/cainiaoxiaoyuan/JSLT_iptv/refs/heads/main/JSLT.txt)
 * [m3u8格式](https://raw.githubusercontent.com/cainiaoxiaoyuan/JSLT_iptv/refs/heads/main/JSLT.m3u8)
+* [via浏览器官网](https://viayoo.com)
